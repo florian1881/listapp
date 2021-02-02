@@ -1,0 +1,10 @@
+- Faire la partie modification 
+
+- pour la fonctionnalité de recherche  
+Chaque ajout de nouvelle reference ajoute la valeur dans les propositions du champs (avec un prependchild) de cette manière on peut un peu
+proposer une sorte d'autocomplétion pour l'utilisateur. 
+utiliser la fonction de recherche naturelle (contains)
+
+Nouvelle fonctionnalité barrer une ligne (dans le cadre d'une todolist)
+
+proposer un export du tableau et un import du tableau (en json)
